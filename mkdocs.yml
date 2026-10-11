@@ -1,0 +1,89 @@
+site_name: Claude for Executives 실습 가이드
+site_description: 임원 Claude 실습 과정 (4~6회차) — 일을 맡기는 AI, 우리 회사를 아는 참모, 신사업 전략과 C-Level 패키지
+site_author: 스킬잇 김누리
+site_url: https://skilleat-labs.github.io/claudelab/
+repo_url: https://github.com/skilleat-labs/claudelab
+repo_name: skilleat-labs/claudelab
+
+theme:
+  name: material
+  language: ko
+  logo: assets/skilleat.png
+  favicon: assets/skilleat.png
+  font:
+    text: Noto Sans KR
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - 홈: index.md
+  - "시작하기: 설치": install.md
+  - "4회차 (10/15)":
+    - "개요": day4/index.md
+    - "이 가이드 쓰는 법": day4/01.md
+    - "교육 전 PC 준비 (전날까지)": day4/02.md
+    - "시작 전 체크": day4/03.md
+    - "1교시 — 첫 위임, 경쟁사 동향 1장": day4/04.md
+    - "2교시 — 산업, 통상 리스크 분석 → 산업분석 스킬": day4/05.md
+    - "3교시 — 밸류체인 진단 → 핵심 과제 1-2-3": day4/06.md
+    - "막혔을 때": day4/07.md
+    - "다음 회차 준비 — 과제": day4/08.md
+    - "부록 1 — 프롬프트 카드": day4/09.md
+    - "부록 2 — 베스트 프랙티스 요약": day4/10.md
+    - "부록 3 — 입력창과 모델": day4/11.md
+  - "5회차 (10/21)":
+    - "개요": day5/index.md
+    - "이 가이드 쓰는 법": day5/01.md
+    - "시작 전 체크": day5/02.md
+    - "1교시 — Project, 우리 회사를 아는 전략 참모": day5/03.md
+    - "2교시 — 이슈 브리핑 스킬 → 매일 아침 브리핑 에이전트": day5/04.md
+    - "3교시 — 보고서 양식 스킬 → 경영진 보고 장표": day5/05.md
+    - "막혔을 때": day5/06.md
+    - "다음 회차 준비 — 과제": day5/07.md
+    - "부록 1 — 프롬프트 카드": day5/08.md
+    - "부록 2 — 베스트 프랙티스 요약": day5/09.md
+    - "부록 3 — 입력창과 모델": day5/10.md
+  - "6회차 (10/22)":
+    - "개요": day6/index.md
+    - "이 가이드 쓰는 법": day6/01.md
+    - "시작 전 체크": day6/02.md
+    - "1교시 — 신사업 발굴 → 스크리닝 → BM 캔버스": day6/03.md
+    - "2교시 — Strategy 1-2-3 전략서 → 다관점 검증": day6/04.md
+    - "3교시 — 최종 패키지, 발표, 나의 AI 운영 카드": day6/05.md
+    - "막혔을 때": day6/06.md
+    - "교육 이후 — 다음 단계": day6/07.md
+    - "부록 1 — 프롬프트 카드": day6/08.md
+    - "부록 2 — 베스트 프랙티스 요약": day6/09.md
+    - "부록 3 — 입력창과 모델": day6/10.md
+  - 내려받기: downloads.md
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: ko
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+copyright: 스킬잇 김누리 · 예시 회사 (주)한빛정밀은 교육용 가상 회사입니다
