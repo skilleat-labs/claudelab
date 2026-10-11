@@ -8,6 +8,8 @@
     [:material-apple: Mac용 내려받기](https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect){ .md-button }
     [설치 순서 보기 →](install.md){ .md-button }
 
+    <small>버튼을 누르면 설치 파일이 바로 내려받아집니다. 공식 페이지에서 직접 고르려면 [Claude 다운로드 페이지](https://claude.com/download){ target=_blank } · 웹에서 바로 쓰려면 [claude.ai](https://claude.ai){ target=_blank }</small>
+
 임원 Claude 실습 과정 4~6회차의 따라 하기 가이드입니다. 오프라인 3시간씩 3번, 각자 자기 회사로 실습합니다.
 
 !!! tip "이 사이트 쓰는 법"

@@ -12,7 +12,7 @@
 [:material-microsoft-windows: Windows용 내려받기](https://claude.ai/api/desktop/win32/x64/setup/latest/redirect){ .md-button .md-button--primary }
 [:material-apple: Mac용 내려받기](https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect){ .md-button }
 
-<small>누르면 설치 파일이 바로 내려받아집니다. Arm 프로세서 Windows 노트북(예: Snapdragon)은 [Windows Arm용](https://claude.ai/api/desktop/win32/arm64/setup/latest/redirect). 다른 방법: [claude.com/download](https://claude.com/download){ target=_blank }</small>
+<small>누르면 설치 파일이 바로 내려받아집니다. Arm 프로세서 Windows 노트북(예: Snapdragon)은 [Windows Arm용](https://claude.ai/api/desktop/win32/arm64/setup/latest/redirect). 공식 페이지에서 직접 고르려면 [Claude 다운로드 페이지](https://claude.com/download){ target=_blank } · 웹에서 바로 쓰려면 [claude.ai](https://claude.ai){ target=_blank }</small>
 
 ## 한눈에 보기
 
