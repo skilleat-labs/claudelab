@@ -2,7 +2,11 @@
 
 !!! info "가장 먼저: 설치 (4회차 첫 15분, 강사와 같이)"
     Claude 데스크톱 앱 설치, 회사 계정 로그인, 가상화 확인까지 당일 함께 합니다.
-    **[시작하기: 설치 →](install.md)**  ·  IT 담당자에게는 이 링크를 미리 보내 가상화 확인을 부탁하세요.
+    IT 담당자에게는 설치 페이지 링크를 미리 보내 가상화 확인을 부탁하세요.
+
+    [:material-microsoft-windows: Windows용 내려받기](https://claude.ai/api/desktop/win32/x64/setup/latest/redirect){ .md-button .md-button--primary }
+    [:material-apple: Mac용 내려받기](https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect){ .md-button }
+    [설치 순서 보기 →](install.md){ .md-button }
 
 임원 Claude 실습 과정 4~6회차의 따라 하기 가이드입니다. 오프라인 3시간씩 3번, 각자 자기 회사로 실습합니다.
 

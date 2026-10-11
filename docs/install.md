@@ -7,6 +7,13 @@
     가상화 설정(3단계)은 관리자 권한이 필요해서 교육 현장에서는 고칠 수 없습니다.
     IT 담당자가 교육 전에 노트북마다 **3단계와 4단계만** 확인해 두면 당일 막히지 않습니다. 이 페이지 링크를 IT 담당자에게 보내 주세요.
 
+## 바로 설치
+
+[:material-microsoft-windows: Windows용 내려받기](https://claude.ai/api/desktop/win32/x64/setup/latest/redirect){ .md-button .md-button--primary }
+[:material-apple: Mac용 내려받기](https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect){ .md-button }
+
+<small>누르면 설치 파일이 바로 내려받아집니다. Arm 프로세서 Windows 노트북(예: Snapdragon)은 [Windows Arm용](https://claude.ai/api/desktop/win32/arm64/setup/latest/redirect). 다른 방법: [claude.com/download](https://claude.com/download){ target=_blank }</small>
+
 ## 한눈에 보기
 
 - [ ] **1단계** Claude 데스크톱 앱 설치
@@ -22,8 +29,10 @@
 
 === "Windows"
 
-    1. 검색창에 **"클로드 설치"**를 검색하거나 [claude.com/download](https://claude.com/download)에 들어갑니다.
-    2. **Windows용**을 내려받아 실행합니다.
+    [:material-download: Windows용 설치 파일 내려받기](https://claude.ai/api/desktop/win32/x64/setup/latest/redirect){ .md-button .md-button--primary }
+
+    1. 위 버튼을 누르면 설치 파일(Claude Setup)이 내려받아집니다.
+    2. 내려받은 파일을 실행합니다. (Arm 노트북은 [Windows Arm용](https://claude.ai/api/desktop/win32/arm64/setup/latest/redirect))
 
     !!! warning "'Trusted app installs must be enabled to install Claude' 창이 뜨면"
         Microsoft Store 밖의 앱 설치가 막혀 있다는 뜻입니다.
@@ -36,8 +45,10 @@
 
 === "Mac"
 
-    1. 검색창에 **"클로드 설치"**를 검색하거나 [claude.com/download](https://claude.com/download)에 들어갑니다.
-    2. **Mac용**을 내려받아 열고, Claude 아이콘을 **응용 프로그램(Applications)** 폴더로 끌어다 놓습니다.
+    [:material-download: Mac용 설치 파일 내려받기](https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect){ .md-button .md-button--primary }
+
+    1. 위 버튼을 누르면 설치 파일이 내려받아집니다.
+    2. 내려받은 파일을 열고, Claude 아이콘을 **응용 프로그램(Applications)** 폴더로 끌어다 놓습니다.
 
     macOS 14 (Sonoma) 이상이 필요합니다. 메뉴 › 이 Mac에 관하여에서 확인할 수 있습니다.
 

@@ -22,3 +22,8 @@
 .md-typeset .abstract > .admonition-title::before { background-color: #9A7300; }
 /* 체크박스 */
 .md-typeset .task-list-control [type=checkbox]:checked + .task-list-indicator::before { background-color: #F5C43D; }
+
+/* 버튼: 스킬잇 노랑 */
+.md-typeset .md-button { border-color: #11171C; color: #11171C; font-weight: 700; margin: .2em .3em .2em 0; }
+.md-typeset .md-button--primary { background-color: #F5C43D; border-color: #F5C43D; color: #11171C; }
+.md-typeset .md-button:hover { background-color: #11171C; border-color: #11171C; color: #F5C43D; }
