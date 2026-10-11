@@ -125,6 +125,16 @@ Claude 앱을 처음 열고 일을 하나 맡기면 작업 공간(1GB 이상)을
 !!! tip "다 됐으면"
     [4회차 실습 가이드](day4/index.md)로 갑니다. 강사가 다음 순서를 안내합니다. 화면이 조금 달라도 괜찮습니다. 2026년 9월부터 Chat과 Cowork가 하나로 합쳐지는 중이라 메뉴 이름이 다를 수 있습니다.
 
+## 오늘 쓸 자료
+
+실습 자료는 **실습 단계마다 그 자리에 내려받기 버튼**이 있습니다. 미리 받지 않아도 됩니다. 한꺼번에 받고 싶으면 [내려받기](downloads.md) 페이지를 쓰세요.
+
+| 언제 | 자료 |
+| --- | --- |
+| 4회차 1교시 1-3 | [실습1_받은자료(정리전).zip](files/practice1-materials.zip) |
+| 4회차 2교시 2-9 (막혔을 때만) | [industry-competitor-analysis.zip](files/industry-competitor-analysis.zip) |
+| 4회차 3교시 3-7 (시간이 모자라면) | [value-chain-diagnosis.zip](files/value-chain-diagnosis.zip) |
+
 ## 막혔을 때
 
 | 증상 | 해결 |
