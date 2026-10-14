@@ -136,7 +136,7 @@ Claude 앱을 처음 열고 일을 하나 맡기면 작업 공간(1GB 이상)을
 | 언제 | 자료 |
 | --- | --- |
 | 4회차 1교시 1-3 | [실습1_받은자료(정리전).zip](files/practice1-materials.zip) |
-| 4회차 2교시 2-9 (막혔을 때만) | [industry-competitor-analysis.zip](files/industry-competitor-analysis.zip) |
+| 4회차 2교시 2-10 (막혔을 때만) | [industry-competitor-analysis.zip](files/industry-competitor-analysis.zip) |
 | 4회차 3교시 3-8 (시간이 모자라면) | [value-chain-diagnosis.zip](files/value-chain-diagnosis.zip) |
 
 ## 막혔을 때
