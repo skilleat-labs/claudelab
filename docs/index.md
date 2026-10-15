@@ -1,7 +1,7 @@
 # Claude for Executives 실습 가이드
 
 !!! info "가장 먼저: 설치 (4회차 첫 15분, 강사와 같이)"
-    Claude 데스크톱 앱 설치, 회사 계정 로그인, 가상화 확인까지 당일 함께 합니다.
+    Claude 데스크톱 앱 설치, 교육용 팀 계정 로그인, 가상화 확인까지 당일 함께 합니다.
     IT 담당자에게는 설치 페이지 링크를 미리 보내 가상화 확인을 부탁하세요.
 
     [:material-microsoft-windows: Windows용 내려받기](https://claude.ai/api/desktop/win32/x64/setup/latest/redirect){ .md-button .md-button--primary }
