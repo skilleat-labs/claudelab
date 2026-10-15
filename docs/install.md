@@ -14,6 +14,22 @@
 
 <small>누르면 설치 파일이 바로 내려받아집니다. Arm 프로세서 Windows 노트북(예: Snapdragon)은 [Windows Arm용](https://claude.ai/api/desktop/win32/arm64/setup/latest/redirect). 공식 페이지에서 직접 고르려면 [Claude 다운로드 페이지](https://claude.com/download){ target=_blank } · 웹에서 바로 쓰려면 [claude.ai](https://claude.ai){ target=_blank }</small>
 
+## Windows · Mac 용어와 단축키
+
+가이드는 Windows 기준으로 쓰고, Mac이 다른 곳은 함께 적었습니다.
+
+| 하는 일 | Windows | Mac |
+| --- | --- | --- |
+| 파일, 폴더 보는 창 | 파일 탐색기 (**Windows 키 + E**) | Finder (Dock의 웃는 얼굴 아이콘) |
+| 오른쪽 클릭 메뉴 | 마우스 오른쪽 클릭 | **Control + 클릭** (트랙패드는 두 손가락 클릭) |
+| 새 폴더 | 바탕화면에서 마우스 오른쪽 › 새로 만들기 › 폴더 | 바탕화면에서 Control + 클릭 › 새로운 폴더 (**⌘ + Shift + N**) |
+| 복사 / 붙여 넣기 | **Ctrl + C / Ctrl + V** | **⌘ + C / ⌘ + V** |
+| 전체 선택 | **Ctrl + A** | **⌘ + A** |
+| zip 압축 풀기 | zip에서 마우스 오른쪽 › 압축 풀기(모두 추출) | zip을 더블클릭 |
+| 창 두 개 나란히 | **Windows 키 + ← / →** | 창 왼쪽 위 초록색 버튼에 마우스를 올려 왼쪽 / 오른쪽 배치 |
+| 화면 캡처 | **Windows 키 + Shift + S** | **⌘ + Shift + 4** (영역 선택) |
+| .md 파일 열기 | 마우스 오른쪽 › 연결 프로그램 › 메모장 | Control + 클릭 › 다음으로 열기 › 텍스트 편집기 |
+
 ## 한눈에 보기
 
 - [ ] **1단계** Claude 데스크톱 앱 설치
@@ -75,7 +91,7 @@ Cowork는 PC 안에 작은 가상 컴퓨터를 띄워 그 안에서 일합니다
 | 보이는 글자 | 할 일 |
 | --- | --- |
 | **가상화: 사용** | 끝. 4단계로 갑니다 |
-| **가상화: 사용 안 함** | 직접 바꾸지 마세요. 화면을 사진으로 찍어 IT 담당자에게 보냅니다 |
+| **가상화: 사용 안 함** | 직접 바꾸지 마세요. 화면을 캡처(Windows 키 + Shift + S)해 IT 담당자에게 보냅니다 |
 
 ??? info "IT 담당자용 메모 (눌러서 펼치기)"
     - BIOS(UEFI)에서 Intel VT-x 또는 AMD-V를 켭니다.
@@ -101,7 +117,7 @@ Anthropic이 제공하는 점검 프로그램입니다. 설치나 로그인 없�
 !!! success "이렇게 나오면 준비 완료"
     **This computer is ready for Cowork**
 
-빨간 항목이 있으면 그 줄을 사진으로 찍어 IT 담당자에게 보내 주세요.
+빨간 항목이 있으면 그 줄을 캡처해(Windows: **Windows 키 + Shift + S**, Mac: **⌘ + Shift + 4**) IT 담당자에게 보내 주세요.
 
 ## 5단계. 앱을 한 번 열어 작업 공간 내려받기
 
