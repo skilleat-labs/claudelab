@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | [실습1_받은자료(정리전).zip](files/practice1-materials.zip) | 4회차 실습 1 (1-3) | 일부러 이름이 뒤죽박죽인 가상 회사 자료. Claude에게 정리를 맡겨 본다 |
 | [한빛정밀_시연자료.zip](files/hanbit-demo-materials.zip) | 4회차 전체 | 정리된 가상 회사 자료 (회사 개요, KPI, 사업보고서 요약, 경쟁사, 업계 리포트, 뉴스, 내부 메모) |
+| [주간업데이트_자료.zip](files/weekly-update-materials.zip) | 5회차 1교시 (1-3) | 가상 회의록 PDF 3개와 3분기 잠정 실적 엑셀. 주간업데이트 스킬을 처음부터 만들 때 쓴다 |
 
 ## 백업 스킬
 
