@@ -15,6 +15,9 @@
 | --- | --- | --- |
 | [industry-competitor-analysis.zip](files/industry-competitor-analysis.zip) | 4회차 2교시 | 산업, 경쟁사, 통상 리스크 분석 |
 | [value-chain-diagnosis.zip](files/value-chain-diagnosis.zip) | 4회차 3교시 | 밸류체인 진단과 핵심 과제 1-2-3 |
+| [exec-issue-briefing.zip](files/exec-issue-briefing.zip) | 5회차 3교시 | 뉴스 한 건을 우리 회사 영향 브리핑으로 |
+| [exec-report-style.zip](files/exec-report-style.zip) | 6회차 3교시 (받아서 우리 색으로) | 경영진 보고 양식: 제목은 결론, 한 장 한 메시지, 숫자 표기 |
+| [new-biz-screening.zip](files/new-biz-screening.zip) | 6회차 1교시 | 신사업 후보를 같은 기준으로 채점 |
 
 !!! warning "스킬은 믿을 수 있는 출처에서 받은 것만"
     모르는 곳에서 받은 스킬에는 숨은 지시가 들어 있을 수 있습니다. 이 사이트의 스킬은 강사가 만든 교육용입니다.
