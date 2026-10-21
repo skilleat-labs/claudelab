@@ -4,6 +4,11 @@
 
 신사업 고르기, 전략 쓰고 여러 관점으로 검증, 보고서양식 스킬, 최종 패키지, 가져가기 키트
 
+!!! danger "실습 자료 한 번에 받기 (10월 30일까지만 받을 수 있습니다)"
+    강의 자료와 실습 자료를 한곳에 모아 두었습니다. **10월 30일(목)까지만** 열리니 그 전에 내 PC에 받아 두세요.
+
+    [:material-folder-download: 실습 자료 폴더 열기](https://skilleat.sharepoint.com/:f:/g/IgCBi-wo0a-mRa7aTHaH9SqSASRIL5lVfXROy-ip_I4NRLQ?e=i6gSip){ .md-button .md-button--primary target=_blank }
+
 ## 오늘의 결과물
 
 - [ ] 신사업 후보 20개 → 3개 (Excel)

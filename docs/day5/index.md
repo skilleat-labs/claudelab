@@ -4,6 +4,11 @@
 
 Claude 기본기(Chat과 Cowork, 컨텍스트, 지침, 메모리, 스킬), 공식 스킬 체험, 내 스킬 만들고 관리하고 백업하기, 이슈 브리핑 스킬과 예약 작업
 
+!!! danger "실습 자료 한 번에 받기 (10월 30일까지만 받을 수 있습니다)"
+    강의 자료와 실습 자료를 한곳에 모아 두었습니다. **10월 30일(목)까지만** 열리니 그 전에 내 PC에 받아 두세요.
+
+    [:material-folder-download: 실습 자료 폴더 열기](https://skilleat.sharepoint.com/:f:/g/IgCBi-wo0a-mRa7aTHaH9SqSASRIL5lVfXROy-ip_I4NRLQ?e=i6gSip){ .md-button .md-button--primary target=_blank }
+
 ## 오늘의 결과물
 
 - [ ] Chat과 Cowork 차이, 개념 지도 익히기

@@ -1,5 +1,12 @@
 # Claude for Executives 실습 가이드
 
+!!! danger "실습 자료 한 번에 받기 (10월 30일까지만 받을 수 있습니다)"
+    강의 자료와 실습 자료를 한곳에 모아 두었습니다. **10월 30일(목)까지만** 열리니 그 전에 내 PC에 받아 두세요.
+
+    [:material-folder-download: 실습 자료 폴더 열기](https://skilleat.sharepoint.com/:f:/g/IgCBi-wo0a-mRa7aTHaH9SqSASRIL5lVfXROy-ip_I4NRLQ?e=i6gSip){ .md-button .md-button--primary target=_blank }
+
+    <small>실습에 필요한 파일은 이 사이트의 각 단계와 [내려받기](downloads.md) 페이지에서도 바로 받을 수 있습니다. 10월 30일 이후에는 그쪽을 쓰세요.</small>
+
 !!! info "가장 먼저: 설치 (4회차 첫 15분, 강사와 같이)"
     Claude 데스크톱 앱 설치, 교육용 팀 계정 로그인, 가상화 확인까지 당일 함께 합니다.
     IT 담당자에게는 설치 페이지 링크를 미리 보내 가상화 확인을 부탁하세요.

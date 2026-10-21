@@ -4,6 +4,11 @@
 
 첫 위임, 산업, 정책 환경 리스크 분석, 밸류체인 진단과 핵심 과제 1-2-3
 
+!!! danger "실습 자료 한 번에 받기 (10월 30일까지만 받을 수 있습니다)"
+    강의 자료와 실습 자료를 한곳에 모아 두었습니다. **10월 30일(목)까지만** 열리니 그 전에 내 PC에 받아 두세요.
+
+    [:material-folder-download: 실습 자료 폴더 열기](https://skilleat.sharepoint.com/:f:/g/IgCBi-wo0a-mRa7aTHaH9SqSASRIL5lVfXROy-ip_I4NRLQ?e=i6gSip){ .md-button .md-button--primary target=_blank }
+
 ## 오늘의 결과물
 
 - [ ] AI전략기획실 폴더 (Cowork 연결)

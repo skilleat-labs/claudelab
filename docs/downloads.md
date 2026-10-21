@@ -1,5 +1,12 @@
 # 내려받기
 
+!!! danger "실습 자료 한 번에 받기 (10월 30일까지만 받을 수 있습니다)"
+    강의 자료와 실습 자료를 한곳에 모아 두었습니다. **10월 30일(목)까지만** 열리니 그 전에 내 PC에 받아 두세요.
+
+    [:material-folder-download: 실습 자료 폴더 열기](https://skilleat.sharepoint.com/:f:/g/IgCBi-wo0a-mRa7aTHaH9SqSASRIL5lVfXROy-ip_I4NRLQ?e=i6gSip){ .md-button .md-button--primary target=_blank }
+
+    <small>실습에 필요한 파일은 이 사이트의 각 단계와 아래 목록에서도 바로 받을 수 있습니다. 10월 30일 이후에는 그쪽을 쓰세요.</small>
+
 ## 실습 자료
 
 | 파일 | 언제 쓰나 | 내용 |
